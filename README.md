@@ -72,7 +72,7 @@
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=nguyenngoclongdev&theme=gruvbox&bg_color=20232a&hide_border=true&hide_title=true" />
 
 <!-- Footer -->
-</br>
-</br>
+&nbsp;
+&nbsp;
 <h3 align="center"><samp>Made with ❤️ - 2023.</samp></h3>
 
