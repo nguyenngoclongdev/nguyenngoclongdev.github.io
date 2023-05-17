@@ -74,5 +74,5 @@
 <!-- Footer -->
 </br>
 </br>
-<h3 align="center"><samp>Made with ❤️ - Nguyen Ngoc Long - 2023.</samp></h3>
+<h3 align="center"><samp>Made with ❤️ - 2023.</samp></h3>
 
