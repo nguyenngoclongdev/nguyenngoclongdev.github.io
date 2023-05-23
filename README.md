@@ -1,8 +1,5 @@
 <img width="100%" align="right" src="images/profile.png">
 
-<!-- Visitor -->
-<img style="margin-top: 5px;" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyenngoclongdev.nguyenngoclongdev">
-
 <!-- Hello Message -->
 <h3 align="center">
     <samp>
@@ -15,7 +12,7 @@
 <p align="center">
     <samp>
         I'm a software developer from <b>Vietnam</b><br>
-        「 Research Assistant & Computer Engineer & Software Developer</b> 」<br>
+        「 Code, Solve, Build - Across platforms, with Devops</b> 」<br>
     </samp>
     <br>
     <!-- JavaScript -->
