@@ -66,7 +66,7 @@
 <!-- Contribution Graph -->
 &nbsp;
 <h2 align="center"><samp>Contribution Graph</samp></h2>
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=nguyenngoclongdev&theme=gruvbox&bg_color=20232a&hide_border=true&hide_title=true" />
+
 
 <!-- Footer -->
 &nbsp;
