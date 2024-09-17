@@ -1,99 +1,75 @@
-<!-- <img width="100%" align="right" src="images/profile.png"> -->
-
 <!-- Hello Message -->
-<h3 align="center">
+<h3>
     <samp>
-        &gt; Hey There!, I am <b><a style="text-decoration:none" target="_blank" href="https://nguyenngoclongdev.github.io/">Nguyen Ngoc Long</a></b>
+        &gt; Hey There!, I am <b><a style="text-decoration:none" target="_blank" href="https://nguyenngoclongdev.github.io">Nguyen Ngoc Long</a></b>
     </samp>
 </h3>
 &nbsp;
 
-<!-- Profile -->
-<p align="center">
-    <samp>
-        I'm a software developer from <b>Vietnam</b><br>
-        「 Code, Solve, Build - Across platforms, with Devops</b> 」<br>
-    </samp>
-    <br>
-    <!-- JavaScript -->
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-    </a>
-    <!-- Nodejs -->
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
-    </a>
-    <!-- Python -->
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-    </a>
-    <!-- Typescript -->
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white">
-    </a>
-    <!-- Java -->
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk">
-    </a>
-    <!-- C# -->
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp">
-    </a>
-</p>
-&nbsp;
+I'm a software developer from Vietnam, fueled by a passion for problem-solving and a dedication to first-principle thinking. I thrive on challenges and am well-versed in technologies like JavaScript, Node.js, React, Next.js, AWS and more.
 
-<!-- Repositories -->
-<h2 align="center"><samp>Featured repositories</samp></h2>
-<p align="center">
-    <a style="text-decoration:none" href="https://github.com/nguyenngoclongdev?tab=repositories" target="_blank">
-        <img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.repositories.svg" alt="Featured repositories" width="100%">
-    </a>
-</p>
+Feel free to reach out to me @nguyenngoclongdev for tech insights or just to connect! Let's collaborate and innovate in the tech world together. 🌟
 
-<!-- Languages -->
-<h2 align="center"><samp>Most used languages</samp></h2>
-<img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.languages.svg" alt="Used languages" width="100%">
+Like My Work?
 
-<!-- Reactions -->
-<h2 align="center"><samp>Overall users reactions</samp></h2>
-<img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.reactions.svg" alt="Overall users reactions" width="100%">
+[![Github](https://img.shields.io/badge/Github-F15689?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/nguyenngoclongdev)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nguyenngoclong)
+[![KO-FI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nguyenngoclong)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/longnguyenngoc)
 
-<!-- Commits history -->
-<h2 align="center"><samp>Commits history</samp></h2>
-<img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.calendar.svg" alt="Commits history" width="100%">
+<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
-<!-- Recently starred -->
-<h2 align="center"><samp>Recently starred</samp></h2>
-<img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.stars.svg" alt="Recently starred" width="100%">
+### Personal Insights:
 
-<!-- Followup -->
-<h2 align="center"><samp>Followup</samp></h2>
-<img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.followup.svg" alt="Followup" width="100%">
+- 🛠 Working with JavaScript, TypeScript, AWS, and more.
+- 🚀 Exploring Generative AI and large language models.
+- 💬 Ask me anything [here](https://github.com/nguyenngoclongdev/nguyenngoclongdev/issues/).
+- 📫 You can reach me at [here](mailto:nguyenngoclong.dev@outlook.com).
 
-<!-- Achievements -->
-<!-- <h2 align="center"><samp>Achievements</samp></h2>
-<img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.achievements.svg" alt="Achievements" width="100%"> -->
+### My Top Interests:
 
-<!-- Metrics -->
-<h2 align="center"><samp>Metrics</samp></h2>
-<img align="center" src="https://github.com/nguyenngoclongdev/nguyenngoclongdev/raw/HEAD/metrics.svg" alt="Metrics" width="100%">
+- 💻 &nbsp; I'm passionate about discovering new technologies and building innovative projects.
+- 📰 &nbsp; I enjoy reading, writing, and watching anything tech-related.
+- 🍕 &nbsp; I love attending meetups, tech events, and hackathons.
 
-<!-- Funding -->
-<h2 align="center"><samp>Sponsor Me!</samp></h2>
-<p align="center">
-    <!-- KO-FI -->
-    <a style="text-decoration:none" href="https://ko-fi.com/nguyenngoclong" target="_blank">
-        <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-    </a>
-    <!-- Paypal -->
-    <a style="text-decoration:none" href="http://paypal.com/paypalme/longnguyenngoc" target="_blank">
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-    </a>
-    <!-- Patreon -->
-    <a style="text-decoration:none" href="https://patreon.com/nguyenngoclong" target="_blank">
-        <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
-    </a>
-</p>
+### Languages and Tools:
+
+<code><img height="27" src="https://skillicons.dev/icons?i=js,ts,python,java,cs,bash,aws,react,ps,figma,cypress" alt="skills"></code>
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenngoclongdev&show_icons=true&rank_icon=github&theme=codeSTACKr" />
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=nguyenngoclongdev&theme=dark&hide_border=true" />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Tools I Use to Get Things Done:</b></summary>
+  	<ul>
+  	    <li><b>☁️ OS:</b> MacOS 10.15.7 Catalina</li>
+        <li><b>🛠 Development Tools:</b> VSCode, Git, Docker</li>
+  	    <li><b>🌐 Browser: </b> Chrome & Safari</li>
+	    <li><b>🧪 Terminal: </b> ZSH: Oh My Zsh</li>
+ 	    <li><b>📚 Other Tools:</b> Postman, Termius, Burpsuite, 1 Password...</li>
+	</ul>
+</details>
+
+<details>
+  <summary><b>🎉 Profile Views</b></summary>
+
+  <br />
+  <img src="https://visitcount.itsvg.in/api?id=nguyenngoclongdev&label=Profile%20Views&color=6" />
+</details>
 
 <!-- Footer -->
-<h3 align="center"><samp>Made with ❤️ - 2023.</samp></h3>
+<h3 align="center"><samp>Made with ❤️ - 2024.</samp></h3>
