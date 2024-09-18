@@ -19,6 +19,7 @@ Like My Work?
 
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
+
 ### Personal Insights:
 
 - 🛠 Working with JavaScript, TypeScript, AWS, and more.
@@ -28,9 +29,9 @@ Like My Work?
 
 ### My Top Interests:
 
-- 💻 &nbsp; I'm passionate about discovering new technologies and building innovative projects.
-- 📰 &nbsp; I enjoy reading, writing, and watching anything tech-related.
-- 🍕 &nbsp; I love attending meetups, tech events, and hackathons.
+- 🚀 I'm passionate about discovering new technologies and building innovative projects.
+- 📖 I enjoy reading, writing, and watching anything tech-related.
+- 🎉 I love attending meetups, tech events, and hackathons.
 
 ### Languages and Tools:
 
@@ -59,7 +60,7 @@ Like My Work?
   	    <li><b>☁️ OS:</b> MacOS 10.15.7 Catalina</li>
         <li><b>🛠 Development Tools:</b> VSCode, Git, Docker</li>
   	    <li><b>🌐 Browser: </b> Chrome & Safari</li>
-	    <li><b>🧪 Terminal: </b> ZSH: Oh My Zsh</li>
+	    <li><b>💻 Terminal: </b> ZSH: Oh My Zsh</li>
  	    <li><b>📚 Other Tools:</b> Postman, Termius, Burpsuite, 1 Password...</li>
 	</ul>
 </details>
