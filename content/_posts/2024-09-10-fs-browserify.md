@@ -2,7 +2,6 @@
 title: "@vscode-utility/fs-browserify"
 published: true
 img: /assets/img/fs-browserify.avif
-url: https://github.com/vscode-utility/fs-browserify
 tag: npm
 ---
 
