@@ -1,14 +1,88 @@
-############################
-# --- Required options --- #
-############################
+#----------------------------------------
+# GENERAL SETTINGS
+#----------------------------------------
 
-# Name of website
-title: Nguyen Ngoc Long | Profile
-author: Nguyen Ngoc Long
-description: Nguyen Ngoc Long | Profile
+# Site title, appears in the browser tab
+title: "Nguyen Ngoc Long"
 
-# Theme
-color-scheme: auto
-remote_theme: godalming123/minimal
+# Site description in search engine
+description: "Full-time developer, part-time magician. I can make bugs disappear... but they always come back!"
+
+# Language settings for html and seo
+lang: "en_US"
+iso-lang: "en"
+
+# Production url.
+url: "https://nguyenngoclongdev.github.io"
+
+# Part after .com, etc. Use / if none
+baseurl: /
+
+
+#----------------------------------------
+# CONTENT VARIABLES
+#----------------------------------------
+
+# Posts, drafts and other collections in '_content' directory
+collections_dir: content
+
+# Collections
+collections:
+  img:
+    output: true
+    permalink: /:collection/:name
+
+# Index
+index_header: "Blogging with Jekyll"
+index_description: "Magazine is a theme for every blogger. By focusing on your original content, it makes sure to present your work in a modern way."
+
+# Footer
+# Available icons: link, youtube, twitter, facebook, linkedin, instagram
+footer_description: Magazine is a theme for every blogger. By focusing on your original content, it makes sure to present your work in a modern way.
+footer_socials:
+  -
+    link: "/"
+    icon: "facebook"
+  -
+    link: "/"
+    icon: "twitter"
+  -
+    link: "/"
+    icon: "instagram"
+  -
+    link: "/"
+    icon: "linkedin"
+
+#----------------------------------------
+# JEKYLL SETTINGS
+#----------------------------------------
+
+# Default variables for pages. Are in use if not overwritten
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "nguyenngoclongdev"
+      img: "https://placekitten.com/1300/600"
+      tag: Post
+
+# Takes files from root folder, generates site into ./_site
+source: .
+destination: ./_site
+
+paginate: 4
+paginate_path: "page/:num/"
+
+# Excluding dev gem builds from website
+exclude: [vendor]
+
+# Jekyll plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-paginate
+  - jekyll-feed
