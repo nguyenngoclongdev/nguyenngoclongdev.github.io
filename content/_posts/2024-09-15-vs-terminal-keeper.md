@@ -1,12 +1,12 @@
 ---
 title: "terminal-keeper"
 published: true
-img: img/vs-terminal-keeper.avif
+img: /img/vs-terminal-keeper.avif
 tag: vscode
 ---
 
 <p align="center">
-  <img src="img/vs-terminal-keeper-logo.png" width="120" height="120" />
+  <img src="/img/vs-terminal-keeper-logo.png" width="120" height="120" />
 </p>
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/nguyenngoclong.terminal-keeper)](https://marketplace.visualstudio.com/items?itemName=nguyenngoclong.terminal-keeper)
