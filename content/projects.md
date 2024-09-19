@@ -4,10 +4,51 @@ title: Projects
 permalink: /projects
 ---
 
-- [@vscode-utility/fs-browserify - `fs` compatibility between the desktop and web versions](https://github.com/vscode-utility/fs-browserify)
-- [pkgscan - inspect installed packages](https://github.com/nguyenngoclongdev/pkgscan)
-- [step-definition-generator - generate cucumber step definition more easily](https://github.com/nguyenngoclongdev/step-definition-generator)
-- [vs-data-sync - automated tool for comparing database schemas and data](https://github.com/nguyenngoclongdev/vs-data-sync)
-- [vs-asdf - version management powered by asdf-vm](https://github.com/nguyenngoclongdev/vs-asdf)
-- [vs-terminal-keeper - store and manage terminal sessions](https://github.com/nguyenngoclongdev/vs-terminal-keeper)
-- [gherkin-editor - beautiful syntax highlighting support for Gherkin Syntax](https://github.com/nguyenngoclongdev/gherkin-editor)
+<div align="center">
+    <table style="border:0px solid white; width:100%;">
+        <tr style="border: 0px;">
+            <td style="border: 0px;">
+                <a href="https://github.com/nguyenngoclongdev/vs-terminal-keeper">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-terminal-keeper&theme=codeSTACKr"></img>
+                </a>
+            </td>
+            <td style="border: 0px;">
+                <a href="https://github.com/nguyenngoclongdev/step-definition-generator">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=codeSTACKr"></img>
+                </a>
+            </td>
+        </tr>
+        <tr style="border: 0px;">
+            <td style="border: 0px;">
+                <a href="https://github.com/nguyenngoclongdev/vs-asdf">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-asdf&theme=codeSTACKr"></img>
+                </a>
+            </td>
+            <td style="border: 0px;">
+                <a href="https://github.com/vscode-utility/fs-browserify">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vscode-utility&repo=fs-browserify&theme=codeSTACKr"></img>
+                </a>
+            </td>
+        </tr>
+        <tr style="border: 0px;">
+            <td style="border: 0px;">
+                <a href="https://github.com/nguyenngoclongdev/pkgscan">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=pkgscan&theme=codeSTACKr"></img>
+                </a>
+            </td>
+            <td style="border: 0px;">
+                <a href="https://github.com/nguyenngoclongdev/gherkin-editor">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=gherkin-editor&theme=codeSTACKr"></img>
+                </a>
+            </td>
+        </tr>
+         <tr style="border: 0px;">
+            <td style="border: 0px;">
+                <a href="https://github.com/nguyenngoclongdev/vs-data-sync">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-data-sync&theme=codeSTACKr"></img>
+                </a>
+            </td>
+            <td style="border: 0px;"></td>
+        </tr>
+    </table>
+</div>
