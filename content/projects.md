@@ -4,6 +4,19 @@ title: Projects
 permalink: /projects
 ---
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
 <div align="center">
     <table style="border:0px solid white; width:100%;">
         <tr style="border: 0px;">
