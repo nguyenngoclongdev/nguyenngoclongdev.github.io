@@ -1,12 +1,12 @@
 ---
 title: "data-sync"
 published: true
-img: /img/vs-data-sync.avif
+img: img/vs-data-sync.avif
 tag: vscode
 ---
 
 <p align="center">
-  <img src="/img/vs-data-sync-logo.png" width="120" height="120" />
+  <img src="img/vs-data-sync-logo.png" width="120" height="120" />
 </p>
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/nguyenngoclong.data-sync)](https://marketplace.visualstudio.com/items?itemName=nguyenngoclong.data-sync)

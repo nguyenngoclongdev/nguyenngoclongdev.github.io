@@ -1,7 +1,7 @@
 ---
 title: "Cucumber Step Definition Generator"
 published: true
-img: /img/vs-step-definition-generator.avif
+img: img/vs-step-definition-generator.avif
 tag: vscode
 ---
 
