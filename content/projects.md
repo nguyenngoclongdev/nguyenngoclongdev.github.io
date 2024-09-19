@@ -17,6 +17,7 @@ permalink: /projects
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=codeSTACKr">
                 </a>
             </td>
+            <td style="border: 0px;"></td>
         </tr>
         <tr style="border: 0px;">
             <td style="border: 0px;">
@@ -29,6 +30,7 @@ permalink: /projects
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vscode-utility&repo=fs-browserify&theme=codeSTACKr">
                 </a>
             </td>
+            <td style="border: 0px;"></td>
         </tr>
         <tr style="border: 0px;">
             <td style="border: 0px;">
@@ -41,6 +43,7 @@ permalink: /projects
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=gherkin-editor&theme=codeSTACKr">
                 </a>
             </td>
+            <td style="border: 0px;"></td>
         </tr>
          <tr style="border: 0px;">
             <td style="border: 0px;">
@@ -48,6 +51,7 @@ permalink: /projects
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-data-sync&theme=codeSTACKr">
                 </a>
             </td>
+            <td style="border: 0px;"></td>
             <td style="border: 0px;"></td>
         </tr>
     </table>
