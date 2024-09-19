@@ -10,3 +10,4 @@ permalink: /projects
 - [vs-data-sync - automated tool for comparing database schemas and data](https://github.com/nguyenngoclongdev/vs-data-sync)
 - [vs-asdf - version management powered by asdf-vm](https://github.com/nguyenngoclongdev/vs-asdf)
 - [vs-terminal-keeper - store and manage terminal sessions](https://github.com/nguyenngoclongdev/vs-terminal-keeper)
+- [gherkin-editor - beautiful syntax highlighting support for Gherkin Syntax](https://github.com/nguyenngoclongdev/gherkin-editor)
