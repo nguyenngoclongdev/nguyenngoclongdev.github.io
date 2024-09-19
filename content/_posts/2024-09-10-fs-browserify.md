@@ -5,4 +5,4 @@ img: /assets/img/fs-browserify.avif
 tag: npm
 ---
 
-{% remote_markdown https://raw.githubusercontent.com/vscode-utility/fs-browserify/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/vscode-utility/fs-browserify/main/README.md %}

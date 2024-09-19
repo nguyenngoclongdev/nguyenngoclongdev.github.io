@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-{% remote_markdown https://raw.githubusercontent.com/nguyenngoclongdev/nguyenngoclongdev/main/README.md %}
+{% remote_include https://raw.githubusercontent.com/nguyenngoclongdev/nguyenngoclongdev/main/README.md %}
