@@ -86,3 +86,4 @@ plugins:
   - jekyll-relative-links
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-remote-include
