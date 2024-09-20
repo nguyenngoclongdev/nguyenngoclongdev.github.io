@@ -1,5 +1,5 @@
 ---
-title: "data-sync"
+title: "Data Sync"
 published: true
 img: /assets/img/vs-data-sync.avif
 tag: vscode

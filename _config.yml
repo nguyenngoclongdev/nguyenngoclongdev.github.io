@@ -16,7 +16,7 @@ iso-lang: "en"
 url: "https://nguyenngoclongdev.github.io"
 
 # Part after .com, etc. Use / if none
-baseurl: 
+baseurl: /
 
 
 #----------------------------------------

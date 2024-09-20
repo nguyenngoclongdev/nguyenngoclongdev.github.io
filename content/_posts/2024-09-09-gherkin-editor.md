@@ -1,5 +1,5 @@
 ---
-title: "gherkin-editor"
+title: "Gherkin Editor"
 published: true
 img: /assets/img/gherkin-editor.avif
 tag: vscode

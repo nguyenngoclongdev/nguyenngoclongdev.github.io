@@ -1,5 +1,5 @@
 ---
-title: "terminal-keeper"
+title: "Terminal Keeper"
 published: true
 img: /assets/img/vs-terminal-keeper.avif
 tag: vscode
