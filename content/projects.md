@@ -5,7 +5,6 @@ permalink: /projects
 ---
 
 <br>
-<br>
 
 <div align="center">
     <table style="border:0px solid white; width:100%;">
