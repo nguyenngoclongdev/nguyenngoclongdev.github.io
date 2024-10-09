@@ -15,8 +15,8 @@ permalink: /projects
                 </a>
             </td>
             <td style="border: 0px; width: 33%">
-                <a href="https://github.com/nguyenngoclongdev/step-definition-generator">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=codeSTACKr">
+                  <a href="https://github.com/nguyenngoclongdev/vs-data-sync">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-data-sync&theme=codeSTACKr">
                 </a>
             </td>
             <td style="border: 0px;"></td>
@@ -49,8 +49,8 @@ permalink: /projects
         </tr>
          <tr style="border: 0px;">
             <td style="border: 0px;">
-                <a href="https://github.com/nguyenngoclongdev/vs-data-sync">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=vs-data-sync&theme=codeSTACKr">
+               <a href="https://github.com/nguyenngoclongdev/step-definition-generator">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenngoclongdev&repo=step-definition-generator&theme=codeSTACKr">
                 </a>
             </td>
             <td style="border: 0px;"></td>
